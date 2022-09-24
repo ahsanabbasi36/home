@@ -1,0 +1,92 @@
+Portfolio
+
+# sidebar
+
+alt = Ahsan Abbasi
+Ahsan Abbasi
+Penetration Tester
+
+Show Contacts
+
+Email
+ahsan.abbasi36@gmail.com
+
+Phone
++92 300 0748899
+
+Birthday
+March 18, 2000
+
+Location
+Islamabad ,Pakistan
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+I'm a doing my bachelor's in Computer Science from Bahria University Islamabad.I'm a cybersecurity Enthusiast.
+I'm a Penetration tester of web applications and lie in top 6% in tryhackme.
+## service
+My job is to test your applications with your consent and go for the vulnerabilities 
+and let you know the security issues in your application
+What i'm doing
+Penetration Testing
+alt = mobile app icon
+Mobile apps
+
+
+
+
+
+# resume
+
+Resume
+
+Education
+
+Bahria University Islamabad
+2020— 2024
+Bachelor's in Computer Science
+
+Punjab College of Information & Technology
+2017 — 2019
+Higher Secondary School Education
+
+Divisional Public School
+2016 — 2017
+Secondary School Education
+
+Experience
+TouchStone Communications
+Customer Sales Specialist
+2019-2020
+
+My skills
+
+Comuter Networks
+80%
+Network Security
+70%
+Linux Administration
+90%
+Security Assessment Tools
+80%
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
